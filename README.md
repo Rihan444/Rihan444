@@ -33,3 +33,13 @@ Skills: PYTHON, HTML , CSS , PHP,  JV, C+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rihan444)  
 
 ![Profile views](https://gpvc.arturio.dev/Rihan444)  
+
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <video src="https://va.media.tumblr.com/tumblr_rjheao3N8S1zh4h2c_720.mp4" width="480" height="320" autoplay loop> Sorry your browser does not support embedding videos. </video>
+</body>
+</html>
