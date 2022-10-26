@@ -33,11 +33,11 @@ Skills: PYTHON, HTML , CSS , PHP,  JV, C+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rihan444)  
 
 ![Profile views](https://gpvc.arturio.dev/Rihan444)  
-
+ 
 <!DOCTYPE html>
 <html>
 <head>
-   <
+   <title> Try It Yourself </title>
 </head>
 <body>
    <img src="https://64.media.tumblr.com/4fd8445181fe498fe6b83f2915025db9/74438a08c5a08dae-87/s500x750/ddcd6c6aadc8e99b1ec4f750528abab4aa5dcf71.gifv" />
