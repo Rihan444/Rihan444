@@ -40,6 +40,6 @@ Skills: PYTHON, HTML , CSS , PHP,  JV, C+
    
 </head>
 <body>
-   <img src="https://64.media.tumblr.com/4fd8445181fe498fe6b83f2915025db9/74438a08c5a08dae-87/s500x750/ddcd6c6aadc8e99b1ec4f750528abab4aa5dcf71.gifv" />
+   <img src="https://64.media.tumblr.com/2a45d003fa15a9f1696112769c51db27/bb9e21f77c2e8606-ef/s1280x1920/1c783bbd4df0674f3b2a620e8e27e087ea27b558.pnj" />
 </body>
 </html>
