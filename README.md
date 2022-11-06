@@ -1,6 +1,6 @@
 𝐇𝐢..👋 𝐈 𝐚𝐦 𝐑𝐢𝐡𝐚𝐧 𝐀𝐡𝐦𝐞𝐝 🔰
 #### Ethical Hacker & Cyber Security Expert, GitHub Tool developer.
-![Ethical Hacker & Cyber Security Expert, GitHub Tool developer.](https://64.media.tumblr.com/70aa2a2035e1b9cadd55025a7c762d33/7653f28cae22ed4d-f0/s540x810/d469c084f5a75f2bed6f87ce3e786e4f716179ca.jpg)
+![Ethical Hacker & Cyber Security Expert, GitHub Tool developer.](https://64.media.tumblr.com/2a45d003fa15a9f1696112769c51db27/bb9e21f77c2e8606-ef/s1280x1920/1c783bbd4df0674f3b2a620e8e27e087ea27b558.pnj)
 ![Profile views](https://gpvc.arturio.dev/Rihan444)  
 
 I am Rihan Ahmed 🔰.
@@ -40,6 +40,6 @@ Skills: PYTHON, HTML , CSS , PHP,  JV, C+
    
 </head>
 <body>
-   <img src="https://64.media.tumblr.com/2a45d003fa15a9f1696112769c51db27/bb9e21f77c2e8606-ef/s1280x1920/1c783bbd4df0674f3b2a620e8e27e087ea27b558.pnj" />
+   <img src="https://64.media.tumblr.com/70aa2a2035e1b9cadd55025a7c762d33/7653f28cae22ed4d-f0/s540x810/d469c084f5a75f2bed6f87ce3e786e4f716179ca.jpg" />
 </body>
 </html>
