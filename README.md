@@ -26,7 +26,7 @@ Skills:
  🎯 Software Developing
 
 - 🔭 I’m currently working on 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐇𝐞𝐥𝐩 𝐂𝐞𝐧𝐭𝐞𝐫 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning 3D animation 
 - 📫 How to reach me: https://www.facebook.com/white.hat.hacker.Rihan 
 - ⚡ Fun fact: Ethical Hacking 👨‍💻 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
