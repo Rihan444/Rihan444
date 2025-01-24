@@ -1,6 +1,6 @@
 𝐇𝐢..👋 𝐈 𝐚𝐦 𝐑𝐢𝐡𝐚𝐧 𝐀𝐡𝐦𝐞𝐝 🔰
-#### Ethical Hacker & Cyber Security Expert, GitHub Tool developer.
-![Ethical Hacker & Cyber Security Expert, GitHub Tool developer.](https://64.media.tumblr.com/2a45d003fa15a9f1696112769c51db27/bb9e21f77c2e8606-ef/s1280x1920/1c783bbd4df0674f3b2a620e8e27e087ea27b558.pnj)
+#### Ethical Hacker & Cyber Specialist, or Developer.
+![Ethical Hacker & Cyber Specialist, Developer.](https://64.media.tumblr.com/2a45d003fa15a9f1696112769c51db27/bb9e21f77c2e8606-ef/s1280x1920/1c783bbd4df0674f3b2a620e8e27e087ea27b558.pnj)
 <a href="https://github.com/Rihan444"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MrHacker-X&color=blueviolet&style=flat-square"></a>
 <!DOCTYPE html>
 <html>
