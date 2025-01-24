@@ -19,7 +19,11 @@
 𝑬𝒕𝒉𝒊𝒄𝒂𝒍 𝑯𝒂𝒄𝒌𝒆𝒓 & 𝑪𝒚𝒃𝒆𝒓 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑬𝒙𝒑𝒆𝒓𝒕, 
 
 
-Skills: PYTHON, HTML , CSS , PHP,  JV, C+
+Skills: 
+Cyber Security & Ethical Hacking
+Website Developing 
+Application Developing
+Software Developing
 
 - 🔭 I’m currently working on 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐇𝐞𝐥𝐩 𝐂𝐞𝐧𝐭𝐞𝐫 
 - 🌱 I’m currently learning JavaScript 
